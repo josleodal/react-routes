@@ -1,30 +1,30 @@
 const studies = [
   {
     id: 1,
-    title: 'Ingeniería en Informática',
-    institution: 'Universidad Nacional de La Matanza',
-    date: '2016 - Presente',
+    title: 'Desarrollo de Aplicaciones Web',
+    institution: 'FOC',
+    date: '2020 - 2022',
   },
   {
     id: 2,
-    title: 'Técnico en Informática',
-    institution: 'Escuela de Educación Técnica N° 4',
-    date: '2010 - 2015',
+    title: 'Bootcamp Desarrollo de Aplicaciones Web',
+    institution: 'The Bridge',
+    date: '2023 - 2024',
   },
 ];
 
 const experiences = [
   {
     id: 1,
-    title: 'Desarrollador Frontend',
-    company: 'Tecso',
-    date: '2021 - Presente',
+    title: 'Manager Recepcionist',
+    company: 'TThe Stay Club London',
+    date: '2018 - 2022',
   },
   {
     id: 2,
-    title: 'Desarrollador Fullstack',
-    company: 'Freelance',
-    date: '2019 - 2021',
+    title: 'Quality Departmen',
+    company: 'Monkeys Apartments',
+    date: '2022 - Presente',
   },
 ];
 
